@@ -1,8 +1,8 @@
-name: Phat Nguyen
-bio: 'A magician who turns coffee into codes'
+name: Roman Komkov
+bio: 'Creating and maintaining modern solid infrastructures'
 picture: 'assets/images/mybio.jpg'
 
-url: http://npvinhphat.github.io
+url: http://komkov.io
 # url: http://localhost:3000
 
 # if it's an external image, update below for true
@@ -22,17 +22,10 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 disqus: npvinhphatgithubio
-facebook: NPVPhat
-twitter: npvinhphat
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
-# github: npvinhphat
-# medium: medium
-email: npvinhphat@gmail.com
+twitter: alkoengineering
+linkedin: rkomkov
+github: decayofmind
+email: roman@komkov.co
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

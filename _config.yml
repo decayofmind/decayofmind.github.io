@@ -20,7 +20,7 @@ analytics-google: 'UA-76143048-1'
 # analytics-piwik-id: 1
 
 # if you don't have any of social below, comment the line
-disqus: npvinhphatgithubio
+disqus: komkov
 twitter: alkoengineering
 linkedin: rkomkov
 github: decayofmind

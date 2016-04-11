@@ -1,9 +1,11 @@
 ---
+title: "Migrating data between Apache Cassandra clusters"
 layout: post
-title:  Migrating data between Apache Cassandra clusters
-date:   2015-03-23 12:00:00
-author: roman_komkov
-categories: posts
+date: 2015-03-23 12:00:00
+tag:
+- cassandra
+- migration
+blog: true
 ---
 
 This was originally posted by me on [Glogster dev blog](https://glogster.github.io/posts/2015/03/23/cassandra-migration.html).

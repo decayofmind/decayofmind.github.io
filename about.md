@@ -26,4 +26,4 @@ permalink: /about/index.html
 	<li>And more and more, just trying to remember</li>
 </ul>
 
-<a href="/assests/docs/cv_roman_komkov.docx">HR-friendly CV in proprietary .docx format</a>
+[HR-friendly CV in .docx]({{ site.url }}/{{ site.cv }})

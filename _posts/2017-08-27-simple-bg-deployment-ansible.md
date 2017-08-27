@@ -98,5 +98,5 @@ make CPU load significant.
 
 # Links
 
-- Project's page on GitHub (https://github.com/decayofmind/ansible-bluegreen-docker)
-- Role's page on Ansible Galaxy (https://galaxy.ansible.com/decayofmind/bluegreen-docker/)
+- [Project's page on GitHub](https://github.com/decayofmind/ansible-bluegreen-docker)
+- [Role's page on Ansible Galaxy](https://galaxy.ansible.com/decayofmind/bluegreen-docker/)

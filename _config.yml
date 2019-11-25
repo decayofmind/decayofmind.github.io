@@ -13,6 +13,7 @@ permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
+theme: minima
 
 analytics-google: 'UA-76143048-1'
 
